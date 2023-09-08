@@ -1,2 +1,3 @@
-# id-blog-comments
-Blog comments.
+# i'D Blog Comments
+
+Repository for blog comments.
